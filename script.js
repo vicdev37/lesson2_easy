@@ -112,7 +112,8 @@ for (let i = 0; i < 2; i++) {
 		console.log("done");
 		appData.expenses[a] = b;
 	} else {
-
+		let	a = prompt("Введите обязательную статью расходов в этом месяце", ''),
+			b = prompt("Во сколько обойдется?", '');
 	}
 };
 
