@@ -80,7 +80,7 @@ console.log(appData.expenses)
 // 		console.log("done");
 // 		appData.expenses[a] = b;
 // 	} else {
-
+		// i--
 // 	}
 // };
 
@@ -97,7 +97,7 @@ console.log(appData.expenses)
 // 		console.log("done");
 // 		appData.expenses[a] = b;
 // 	} else {
-
+			// i--
 // 	}
 // } while(i < 2);
 
